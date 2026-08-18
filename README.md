@@ -12,11 +12,13 @@ Building intelligent systems with Python, LLMs and modern AI technologies.
 
 ### 🚀 About Me
 
-- 🤖 AI Engineer focused on **LLMs, RAG and AI Agents**
-- 👁️ Interested in **Computer Vision & Deep Learning**
-- 🐍 Mainly working with **Python & PyTorch**
-- ☁️ Experience with **Azure, Docker and Elasticsearch**
-- 🔭 Currently building AI-powered projects
+* 🤖 AI Engineer specialized in **Artificial Intelligence, LLMs, RAG and Generative AI**
+* 🧠 Experienced in **Machine Learning, Deep Learning and Computer Vision**
+* 🔎 Interested in building **intelligent retrieval systems and AI-powered applications**
+* 🐍 Mainly working with **Python, PyTorch, Hugging Face and LangChain**
+* ☁️ Familiar with **Docker, Azure, FastAPI and vector databases**
+* 🚀 Passionate about developing **practical and scalable AI solutions**
+
 
 ### 🛠️ Languages & Tools
 
